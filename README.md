@@ -21,7 +21,7 @@ This is infact the easiest ROBLOX Screenshare script there is to set up. I'll wa
 
 9. I can see myself!
 
-That's all you really gotta do! If you are good at script, change to your hearts content!
+That's all you really gotta do! If you are good at scripting, change to your hearts content!
 
 
 𝐍𝐎𝐓𝐄: 𝐃𝐎 𝐍𝐎𝐓 𝐔𝐒𝐄 𝐓𝐇𝐄𝐒𝐄 𝐒𝐂𝐑𝐈𝐏𝐓𝐒 𝐓𝐎 𝐁𝐑𝐄𝐀𝐊 𝐑𝐎𝐁𝐋𝐎𝐗 𝐓𝐎𝐒. 𝐈𝐓 𝐈𝐒 𝐘𝐎𝐔𝐑 𝐅𝐀𝐔𝐋𝐓 𝐈𝐅 𝐘𝐎𝐔 𝐆𝐄𝐓 𝐁𝐀𝐍𝐍𝐄𝐃.
