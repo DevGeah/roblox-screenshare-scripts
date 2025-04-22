@@ -13,7 +13,7 @@ def capture_screen():
 
     # Capture the screen and resize to match the number of parts
     screenshot = ImageGrab.grab()
-    screenshot = screenshot.resize(0, 0)) # Resize to your resolution (Length, Height) (Change it to your cols and rows)
+    screenshot = screenshot.resize((0, 0)) # Resize to your resolution (Length, Height) (Change it to your cols and rows)
     screenshot = np.array(screenshot)
     colors = screenshot.reshape(-1, 3).tolist()
 
